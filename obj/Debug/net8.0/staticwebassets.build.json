@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i410cM+BrYHNZUeRqKCzhoTvoH3jkXWnu2ox/0/zo5E=",
+  "Source": "rest_server",
+  "BasePath": "_content/rest_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

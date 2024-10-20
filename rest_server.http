@@ -1,0 +1,6 @@
+@rest_server_HostAddress = http://localhost:5270
+
+GET {{rest_server_HostAddress}}
+Accept: application/json
+
+###
